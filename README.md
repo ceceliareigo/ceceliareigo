@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ceceliareigo
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, PYTHON
-- 💞️ I’m looking to collaborate on Analytics
+- 👀 I’m a Data Engineer 
+- 💞️ I’m looking to collaborate on Analytics/AI/Engineering
 - 📫 How to reach me https://www.linkedin.com/in/ceceliareigo/
 
 <!---
